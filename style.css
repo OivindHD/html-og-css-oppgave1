@@ -1,0 +1,32 @@
+#main-header {
+  background-color: rgb(65, 100, 0);
+  color: white;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgb(119, 32, 240);
+}
+
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #20b0a9;
+
+  color: #080202;
+}
+#image-block {
+  width: 100%;
+  display: block;
+  margin: 20px 0;
+}
+#image-block img {
+  width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+#image-block p {
+  text-align: center;
+  font-style: italic;
+  color: #333;
+}
